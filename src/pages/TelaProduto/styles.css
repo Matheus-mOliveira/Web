@@ -1,0 +1,10 @@
+.lista-obras {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.lista-obras img {
+  width: 100%;
+  height: auto;
+}
